@@ -1,1 +1,2 @@
-var playlist = 
+var playlist = {'Slowdive': 'Alison',
+'My Bloody Valentine': 'Sometimes'}
