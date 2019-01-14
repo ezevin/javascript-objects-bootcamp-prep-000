@@ -1,5 +1,5 @@
-const playlist = {'Slowdive': 'Alison',
+var playlist = {'Slowdive': 'Alison',
 'My Bloody Valentine': 'Sometimes'}
 function updatePlaylist(playlist, artistName, songTitle) { 
-  return Object.assign({},{"Phil Ochs": "Here's to the State of Mississippi"})
+  Object.assign ({}, {"Phil Ochs": "Here's to the State of Mississippi"})
 }
